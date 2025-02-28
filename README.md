@@ -21,6 +21,8 @@ Discount Management:
 Load, view, add, update, and remove discount schemes based on subtotal thresholds.
 With SUBS, bakery shop owners can efficiently handle transactions, keep track of inventory, and ensure smooth customer service operations.
 
+Language: Python
+
 
 
 
